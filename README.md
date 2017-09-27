@@ -15,7 +15,7 @@ This project requires Xcode 8, which you can install from the [Mac App Store](ht
 To clone the Git repository to your local machine, including submodules:
 
 ```sh
-git clone --recursive https://github.com/apollostack/frontpage-ios-app.git
+git clone --recursive https://github.com/apollographql/apollo-ios-quickstart.git
 ```
 
 You will also have to install the `apollo-codegen` command globally through npm:
